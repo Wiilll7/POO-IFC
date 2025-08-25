@@ -1,0 +1,37 @@
+Mercado 1, preço do produto 1: 1.0
+Mercado 1, preço do produto 2: 2.0
+Mercado 1, preço do produto 3: 3.0
+Mercado 1, preço do produto 4: 4.0
+Mercado 1, preço do produto 5: 5.0
+Soma de preços do mercado 1: 15.0
+Mercado 2, preço do produto 1: 6.0
+Mercado 2, preço do produto 2: 7.0
+Mercado 2, preço do produto 3: 8.0
+Mercado 2, preço do produto 4: 9.0
+Mercado 2, preço do produto 5: 10.0
+Soma de preços do mercado 2: 40.0
+Mercado 3, preço do produto 1: 12.0
+Mercado 3, preço do produto 2: 13.0
+Mercado 3, preço do produto 3: 14.0
+Mercado 3, preço do produto 4: 15.0
+Mercado 3, preço do produto 5: 16.0
+Soma de preços do mercado 3: 70.0
+Mercado 4, preço do produto 1: 17.0
+Mercado 4, preço do produto 2: 18.0
+Mercado 4, preço do produto 3: 19.0
+Mercado 4, preço do produto 4: 20.0
+Mercado 4, preço do produto 5: 21.0
+Soma de preços do mercado 4: 95.0
+Mercado 5, preço do produto 1: 22.0
+Mercado 5, preço do produto 2: 23.0
+Mercado 5, preço do produto 3: 24.0
+Mercado 5, preço do produto 4: 25.0
+Mercado 5, preço do produto 5: 26.0
+Soma de preços do mercado 5: 120.0
+Média de preço do produto 1: 11.6
+Média de preço do produto 2: 12.6
+Média de preço do produto 3: 13.6
+Média de preço do produto 4: 14.6
+Média de preço do produto 5: 15.6
+Valor no mercado mais caro: 120.0
+Valor no mercado mais barato: 15.0

@@ -1,0 +1,11 @@
+[1] [2] [3]  
+[4] [5] [6]  
+[7] [8] [9]  
+Soma dos elementos: 45
+Média dos elementos: 5.0
+Maior valor: 9
+Menor valor: 1
+Contador de pares: 4
+Contador de ímpares: 5
+Soma da diagonal principal: 15
+Soma da diagonal secundária: 15

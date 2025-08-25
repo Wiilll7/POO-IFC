@@ -1,0 +1,30 @@
+Aluno: Willian
+nota 1: 10.0
+nota 2: 8.0
+Média: 9.0
+
+Aluno: Elano
+nota 1: 8.0
+nota 2: 6.0
+Média: 7.0
+
+Maior nota: 
+Nome: Willian
+Nota: 10.0
+
+Menor nota: 
+Nome: Elano
+Nota: 6.0
+
+Maior média: 
+Nome: Willian
+Média: 9.0
+
+Menor média: 
+Nome: Elano
+Média: 7.0
+
+Média geral da turma: 8.0
+
+Willian esta acima da média geral.
+Elano esta abaixo da média geral.

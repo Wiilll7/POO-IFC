@@ -1,0 +1,11 @@
+Cartela 1: 
+[6] [7] [13] [15] [23] [28] 
+
+Cartela 2: 
+[6] [13] [23] [29] [34] [53] 
+
+Cartela gabarito: 
+[13] [16] [17] [26] [49] [55] 
+
+Pontuação na cartela 1: 1
+Pontuação na cartela 2: 1

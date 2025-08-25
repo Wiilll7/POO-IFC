@@ -1,0 +1,16 @@
+Atleta 1, salto número 1: 1.0
+Atleta 1, salto número 2: 2.0
+Atleta 1, salto número 3: 3.0
+Atleta 1, salto número 4: 4.0
+Atleta 1, salto número 5: 5.0
+Sua média dos saltos foi de: 3.0
+
+Atleta 2, salto número 1: 6.0
+Atleta 2, salto número 2: 7.0
+Atleta 2, salto número 3: 8.0
+Atleta 2, salto número 4: 9.0
+Atleta 2, salto número 5: 10.0
+Sua média dos saltos foi de: 8.0
+
+A média do campeão foi de: 8.0
+A média do ultimo lugar foi de: 3.0
